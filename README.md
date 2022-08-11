@@ -86,11 +86,15 @@ At first it is necessary to install external packages:
    cd ~/catkin_ws/src
    git clone https://github.com/git-suwalkaaditya/DelyBot.git
    ```
-3.. Build packages
+3. Build packages
    ```sh
    cd ~/catkin_ws
    catkin_make
    ```
+4. Before running any roslaunch and rosrun command, run the following command
+   ```sh
+   source devel/setup.bash
+    ```
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
