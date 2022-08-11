@@ -77,13 +77,16 @@ At first it is necessary to install external packages:
 <br>
 
 ### Installation
-
-1. Clone the repo inside the catkin workspace
+1. First make a catkin workspace 
+   ```sh
+   mkdir -p catkin_ws/src
+   
+2. Clone the repo inside the catkin workspace
    ```sh
    cd ~/catkin_ws/src
    git clone https://github.com/gmeidk/DelyBot.git
    ```
-2. Build packages
+3.. Build packages
    ```sh
    cd ~/catkin_ws
    catkin_make
@@ -209,8 +212,5 @@ For further information check the report - [DelyBot Report.pdf](https://bit.ly/3
 
 Alessandro Quatela - [@qualex97](https://bit.ly/3dP01Dp) - a.quatela1@studenti.poliba.it 
 
-Giuseppe Roberto - [@gmeidk](https://bit.ly/30rueVT) - g.roberto1@studenti.poliba.it
-
-Project Link: [https://github.com/gmeidk/DelyBot](https://bit.ly/3IO2zji)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
