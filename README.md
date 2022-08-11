@@ -84,7 +84,7 @@ At first it is necessary to install external packages:
 2. Clone the repo inside the catkin workspace
    ```sh
    cd ~/catkin_ws/src
-   git clone https://github.com/gmeidk/DelyBot.git
+   git clone https://github.com/git-suwalkaaditya/DelyBot.git
    ```
 3.. Build packages
    ```sh
