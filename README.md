@@ -36,24 +36,6 @@ change lanes and avoid other cars in the lane.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<br>
-DelyBot is a robot that uses six wheels to drive itself along pedestrian paths but also on public roads to reach requested delivery addresses.
-The robot is able to locate itself through knowledge of the global static map and is able to detect and avoid moving obstacles.
-<br>
-<br>
-<div align="center">
-<img src="https://github.com/gmeidk/DelyBot/blob/cb787818e426946b98b9b5e84221a44c5c941cd8/MEDIA/simulation.png?raw=true" alt="DelyBot simulation"> 
-</div>
-<br>
-DelyBot is composed of:
-<br><br>
- <ul>
-  <li>an <i>upper structure</i> designed to transport packages, objects, food</li>
-  <li><i>six motorized wheels</i> that allow it to move using differential control</li>
-</ul> 
-<br>
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 * [ROS Noetic](https://www.ros.org/)
