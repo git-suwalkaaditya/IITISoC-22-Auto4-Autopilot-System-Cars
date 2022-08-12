@@ -1,3 +1,10 @@
+# Prerequisites
+1. Installing ROS Noetic - http://wiki.ros.org/noetic/Installation/Ubuntu
+2. Installing catkin tools- https://catkin-tools.readthedocs.io/en/latest/installing.html
+
+
+
+
 # Demo of Prius in ROS/GAZEBO
 
 This is a simulation of a Prius in [gazebo 9](http://gazebosim.org) with sensor data being published.
