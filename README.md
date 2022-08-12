@@ -204,8 +204,6 @@ The list is imported from the **waypoint.json** file inside the *delybot_navigat
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Gazebo Simulation
-https://user-images.githubusercontent.com/81641638/145631074-0517d654-1828-495e-8481-1b4d265e365c.mp4
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
