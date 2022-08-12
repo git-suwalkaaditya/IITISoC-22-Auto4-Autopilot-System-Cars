@@ -36,3 +36,8 @@ To move the car, run the following sample code:
 ```
 $ rosrun car_demo move.py
 ```
+# Future Implementation
+We want that car to drive autonomously without joystick or gamepad.
+For that we apply same strargies like  in delybot
+1. Gmapping Algorithms - car make the map of the location.
+2. Object detection and Lane Detection Algorithms - In these algorithms, some additional  work has to be done on subscriber and publisher nodes , so after that we can implemnt them on  model.
