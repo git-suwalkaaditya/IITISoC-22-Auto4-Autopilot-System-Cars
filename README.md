@@ -81,7 +81,8 @@ At first it is necessary to install external packages:
   ```
 
 <br>
-### How it works 
+
+### HOW IT WORKS
 
 <div id="top"></div>
 
@@ -89,9 +90,17 @@ At first it is necessary to install external packages:
 <div align="center">
  <img src="https://github.com/git-suwalkaaditya/IITISoC-22-Auto4-Autopilot-System-Cars/blob/main/navigation%20.png" height="500" width="1500"> 
 </div>
-<h3 align="center">DelyBot</h3>
-<p align="center">Ready to serve you anytime, anywhere.</p>
+
 <br>
+Robot navigation is implemented in the delybot_navigation package.
+
+In the amcl.launch file, Adaptive Monte Carlo Localization (AMCL) is implemented, which 
+is a method for localizing the robot and tracking its pose in a map.
+The optimal path planning from the robot pose to the target pose with prior knowledge of the 
+environment and static obstacles is done by the basic Global Planner.
+On the other hand, the Local Planner computes in real-time the new path to avoid dynamic 
+obstacles. It is possible to choose between two implemented Local Planners: DWA and
+Trajectory Rollout, both of which work efficiently.
 
 ### Installation
 1. First make a catkin workspace 
