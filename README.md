@@ -254,4 +254,14 @@ http://kth.diva-portal.org/smash/get/diva2:1057261/FULLTEXT01.pdf
 
 https://medium.com/intro-to-artificial-intelligence/model-predictive-control-udacitys-self-driving-car-nanodegree-ad7cf64fd0e4
 
+[1] navigation package: http://wiki.ros.org/navigation
+
+[2] slam-gmapping package: http://wiki.ros.org/gmapping
+
+[3] map-server package: http://wiki.ros.org/map_server
+
+[4] robot-localization package: http://wiki.ros.org/robot_localization
+
+[5] actor: http://gazebosim.org/tutorials?tut=actor&cat=build_robo
+
 <p align="right">(<a href="#top">back to top</a>)</p>
