@@ -265,3 +265,30 @@ https://medium.com/intro-to-artificial-intelligence/model-predictive-control-uda
 [5] actor: http://gazebosim.org/tutorials?tut=actor&cat=build_robo
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+ 
+## Contacts
+**Aditya Suwalka:**
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-suwalka-8975b4243)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-suwalkaaditya)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me210003008@iiti.ac.in)
+
+**Tarun Kumar Patel**
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kumar-patel-5245b6243)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-tarunkp)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me210003075@iiti.ac.in)
+
+**Soham Mondal:**
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-mondal-4795b6243)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryasmiiti14)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me210003071@iiti.ac.in)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soham_iit_i)
+
+
+**Anurag Srivastava:**
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-srivastava-86b409231)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sigmanurag)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me210003013@gmail.com)
+
+
+
+## TAKE A LOOK AT BRANCH 3 ALSO
