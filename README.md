@@ -230,6 +230,8 @@ The list is imported from the **waypoint.json** file inside the *delybot_navigat
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Gazebo Simulation
+https://github.com/git-suwalkaaditya/IITISoC-22-Auto4-Autopilot-System-Cars/blob/main/simulation%20video.webm
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
