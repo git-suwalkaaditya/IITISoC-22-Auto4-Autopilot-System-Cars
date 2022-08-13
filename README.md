@@ -81,6 +81,17 @@ At first it is necessary to install external packages:
   ```
 
 <br>
+### How it works 
+
+<div id="top"></div>
+
+<br>
+<div align="center">
+ <img src="https://github.com/git-suwalkaaditya/IITISoC-22-Auto4-Autopilot-System-Cars/blob/main/navigation%20.png" height="500" width="1500"> 
+</div>
+<h3 align="center">DelyBot</h3>
+<p align="center">Ready to serve you anytime, anywhere.</p>
+<br>
 
 ### Installation
 1. First make a catkin workspace 
