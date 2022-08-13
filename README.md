@@ -8,6 +8,8 @@ Members :
 - [Tarun Kumar Patel]( https://github.com/git-tarunkp)
 
 - [Soham Mondal]( https://github.com/Aryasmiiti14)
+- [Anurag Srivastava]( https://github.com/Sigmanurag)
+
 
  **Description**:
 -  While on the highway, the monotonous speed
@@ -236,9 +238,20 @@ https://github.com/git-suwalkaaditya/IITISoC-22-Auto4-Autopilot-System-Cars/blob
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+## Reference
 
 For further information check the report - [DelyBot Report.pdf](https://bit.ly/3GNdJTN)
 
-Project Link: https://github.com/gmeidk/DelyBot
+https://roscon.ros.org/2017/presentations/ROSCon%202017%20Vehicle%20and%20City%20Simulation.pdf
+
+https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial
+
+https://github.com/osrf/car_demo
+
+https://github.com/gmeidk/DelyBot
+
+http://kth.diva-portal.org/smash/get/diva2:1057261/FULLTEXT01.pdf
+
+https://medium.com/intro-to-artificial-intelligence/model-predictive-control-udacitys-self-driving-car-nanodegree-ad7cf64fd0e4
+
 <p align="right">(<a href="#top">back to top</a>)</p>
