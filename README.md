@@ -2,9 +2,10 @@
 
 Mentors: [Yeeshukant Singh](https://github.com/Yeeshukant), [Kshitij Bhat](https://github.com/KshitijBhat)
 
-Members : [Aditya Suwalka]( https://github.com/git-suwalkaaditya)
-          [Tarun Kumar Patel] 
-          [Soham Mondal] 
+Members : 
+-[Aditya Suwalka]( https://github.com/git-suwalkaaditya)
+-[Tarun Kumar Patel] ( https://github.com/git-tarunkp )
+-[Soham Mondal] (https://github.com/Aryasmiiti14)
 **Description**: While on the highway, the monotonous speed
 control is a bit tiresome for drivers (especially for long
 distances and longer durations). Lane Assist and Adaptive
